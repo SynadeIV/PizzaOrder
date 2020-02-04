@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">PizzaOrder</string>
+
+
+    <string-array name="pizzaname">
+        <item>Margherita</item>
+        <item>Napolitane</item>
+        <item>Pizzamoureuz</item>
+        <item>Pompei</item>
+        <item>Vesuvio</item>
+        <item>Etna</item>
+    </string-array>
+
+
+</resources>
